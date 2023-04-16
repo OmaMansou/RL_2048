@@ -7,4 +7,7 @@ This repository aims at presenting our work for the Reinforcement Learning group
 
 The Deep Q-Network implementation is available in `DQN_Implementation.ipynb`.
 
+#### N-Tuple Network
+
+The N-Tuple network implementation is available in `TD_ntuple.ipynb`.
 
